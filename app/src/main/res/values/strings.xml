@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HomeWork9_2</string>
+    <string name="textview">Съешь ещё этих мягких французских булок, да выпей чаю</string>
+    <string name="mainTextMargin">Выберете рамер отступов в приложении</string>
+    <string name="btnBig">Большие</string>
+    <string name="btnMiddle">Средние</string>
+    <string name="btnSmall">Мелкие</string>
+    <string name="btnSetMargin">Установить отступы</string>
+    <string name="mainTextCountry">Выберете страну</string>
+    <string name="btnRus">Россия</string>
+    <string name="btnUkr">Украина</string>
+    <string name="btnBel">Беларусь</string>
+    <string name="btnSetStyle">Установить стиль</string>
+</resources>
